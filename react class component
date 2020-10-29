@@ -1,0 +1,21 @@
+{
+  "hello": {
+    "scope": "javascript,html",
+    "prefix": "react Class",
+    "body": [
+		"import React, {Component} from 'react';",
+		" ",
+		"class $TM_FILENAME_BASE extends Component {",
+		" ",
+		"    render() {",
+		"        return(",
+					" ",
+		"        )",
+		"    }",
+		"}",
+		" ",
+		" ",
+		"export default $TM_FILENAME_BASE;"
+	]
+  }
+}
