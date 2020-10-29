@@ -1,0 +1,19 @@
+{
+	"hello": {
+	  "scope": "javascript,html",
+	  "prefix": "react function",
+	  "body": [
+		  "import React from 'react';",
+		  " ",
+		  "const $TM_FILENAME_BASE = () => {",
+		  " ",
+		  "    return(",
+					" ",
+		  "    )",
+		  "}",
+		  " ",
+		  " ",
+		  "export default $TM_FILENAME_BASE;"
+	  ]
+	}
+  }
